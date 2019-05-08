@@ -1,0 +1,20 @@
+{
+  "name": "slack-music-bot",
+  "version": "1.0.0",
+  "description": "Plays music on spotify trough slack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slack",
+    "music",
+    "spotify",
+    "bot"
+  ],
+  "author": "Swackles",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^1.2.0"
+  }
+}
